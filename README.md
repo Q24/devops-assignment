@@ -124,7 +124,7 @@ The `taskapi/` directory contains a fully implemented Spring Boot REST API. **Yo
 
 1. **Create a CI workflow** (e.g., `.github/workflows/ci.yml`) that:
    - Builds the Docker image
-   - Pushes the image to a container registry (GitHub Container Registry, Docker Hub, or local registry)
+   - Pushes the image to GitHub Container Registry
    - Tags images appropriately
 
 ---
