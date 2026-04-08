@@ -173,4 +173,4 @@ If you installed additional tools to build and test your script, please show how
 1. **Commit your code.**
 2. **Push all changes to the main branch of your repository.**
 3. **Install our [github app](https://github.com/apps/ilionx-assignment-grader) in your repository**.
-4. **Send an email towards your contact at Ilionx.**
+4. **Send an email towards your contact at Ilionx. Please include your github username as well as the name of your repository.**
